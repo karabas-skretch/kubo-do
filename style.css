@@ -1,0 +1,142 @@
+.container-fluid{
+    background-color: rgba(190, 182, 182, 0.274);
+}
+.achievementphoto{
+    background-image: url(IMG-05cf7c2a398e05944f85b2fbf74d67f5-V.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid
+}  
+.achievementphoto1{
+    background-image: url(IMG-544a9f611d3aa0422cb48ee7d47a88c7-V.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+.achievementphoto2{
+    background-image: url(IMG-1fd96ab1f849100ce3444014b2b8de01-V.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+
+.achievementphoto3{
+    background-image: url(IMG-fca29dc76e4a3775d7f4f879b4f902dc-V.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+.achievementphoto4{
+    background-image: url(IMG_20181209_133252.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+.achievementphoto5{
+    background-image: url(IMG_20190601_133124.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+.achievementphoto6{
+    background-image: url(IMG_20191012_194234.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+}
+.achievementphoto7{
+    background-image: url(IMG_20191103_141833.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+} 
+.achievementphoto8{
+    background-image: url(3eb6fa24_o.jpeg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+} 
+.achievementphoto9{
+    background-image: url(IMG_20190601_151324.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top:20rem;
+    padding-bottom:20rem;
+    border: 1px solid;
+} 
+ .achievementtext,.achievementtext1,.achievementtext2,.achievementtext3,.achievementtext4,.achievementtext5,.achievementtext6,.achievementtext7,.achievementtext8,.achievementtext9{
+    border: 1px solid;
+    font-family: cursive;
+}  
+.a,.a1,.a2,.a3,.a4,.a5,.a6,.a7,.a8,.a9{
+   padding-top: 15rem;
+} 
+.c{
+    padding-top: 2rem;
+    font-family: cursive;
+}
+
+.c1{
+    font-family: cursive;
+    font-size: large;
+    padding-top: 2rem;
+}
+
+.aboutcoach{
+    border: 1px solid;
+}
+
+.coachphoto{
+    border: 2px solid;
+    background-image: url(зображення_viber_2020-12-28_16-39-31.jpg);
+    background-size: cover;  
+    background-position: 50% 50%; 
+    padding-top: 15rem;
+    padding-bottom: 2rem;
+    border: 1px solid;
+}
+.end{   
+   display: flex;
+   justify-content: space-between;
+   font-family: cursive;
+   flex-wrap: wrap;
+   background-color: gainsboro;
+} 
+.fa-instagram{   
+    color: rgba(202, 25, 25, 0.808);
+    font-size: 25px;
+}
+.fa-facebook{  
+    color: rgba(36, 36, 196, 0.808);
+    font-size: 25px;
+    margin-top: 30px; 
+    margin-left: 20px;   
+    margin-right: 20px;
+}  
+.phones{
+    margin-top: 20px;
+    margin-bottom: 10px;    
+}
+.address{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
